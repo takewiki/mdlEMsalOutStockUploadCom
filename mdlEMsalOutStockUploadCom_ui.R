@@ -10,9 +10,7 @@ tabItem(tabName = "mdlEMsalOutStockUploadCom",
                                     #begin----
                                     #uiComponent seperated by comma (,)
                                     #mdlEMsalOutStockUploadUI::salOutStockUI()
-                                    mdlEMsalOutStockUploadUI::outStockMergeUI(),
-                                    mdlEMsalOutStockUploadUI::arReceivableUI()
-                                    
+                                    mdlEMsalOutStockUploadUI::outStockMergeUI()
                                     
                                     #end----
                                     
